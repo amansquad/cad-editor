@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "kind": "box",
+      "params": { "w": 1, "h": 1, "d": 1 },
+      "position": [0.5, 0.5, 0.5],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1]
+    },
+    {
+      "kind": "sphere",
+      "params": { "r": 0.6 },
+      "position": [0, 0.6, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1]
+    }
+  ]
+}
+
